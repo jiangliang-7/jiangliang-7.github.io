@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiangliang-7.github.io/2023/02/20/a/</loc>
+    
+    <lastmod>2023-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangliang-7.github.io/2023/02/22/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</loc>
+    
+    <lastmod>2023-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/</loc>
     
     <lastmod>2023-02-22</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/</loc>
-    
-    <lastmod>2023-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangliang-7.github.io/2023/02/20/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
     
     <lastmod>2023-02-22</lastmod>
     
@@ -165,13 +174,6 @@
 
   
   <url>
-    <loc>https://jiangliang-7.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2023-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangliang-7.github.io/categories/java%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -180,6 +182,13 @@
   
   <url>
     <loc>https://jiangliang-7.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangliang-7.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%80%9D%E8%80%83/</loc>
     <lastmod>2023-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
