@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jiang Liang</title>
+  <title>JiangLiang✨</title>
   
   <subtitle>愿你编码半生，归来仍是少年。</subtitle>
   <link href="https://jiangliang-7.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiangliang-7.github.io/"/>
-  <updated>2023-02-21T14:03:07.973Z</updated>
+  <updated>2023-02-22T09:41:48.360Z</updated>
   <id>https://jiangliang-7.github.io/</id>
   
   <author>
-    <name>Jiang Liang</name>
+    <name>JiangLiang✨</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E5%9B%9B/"/>
     <id>https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E5%9B%9B/</id>
     <published>2023-02-21T14:02:39.025Z</published>
-    <updated>2023-02-21T14:03:07.973Z</updated>
+    <updated>2023-02-22T09:41:48.360Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
     
@@ -33,6 +33,10 @@
     
     
     
+    <category term="c语言笔记" scheme="https://jiangliang-7.github.io/categories/c%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="c语言" scheme="https://jiangliang-7.github.io/tags/c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
@@ -41,7 +45,7 @@
     <link href="https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/"/>
     <id>https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/</id>
     <published>2023-02-21T14:01:45.768Z</published>
-    <updated>2023-02-21T14:02:31.625Z</updated>
+    <updated>2023-02-22T09:42:42.893Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
     
@@ -52,6 +56,8 @@
       
     
     
+    
+    <category term="学习思考" scheme="https://jiangliang-7.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%80%9D%E8%80%83/"/>
     
     
   </entry>
@@ -81,7 +87,7 @@
     <link href="https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/"/>
     <id>https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/</id>
     <published>2023-02-21T14:01:04.411Z</published>
-    <updated>2023-02-21T14:01:36.141Z</updated>
+    <updated>2023-02-22T09:40:21.148Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
     
@@ -93,6 +99,14 @@
     
     
     
+    <category term="日常生活记录" scheme="https://jiangliang-7.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="日常生活" scheme="https://jiangliang-7.github.io/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="有趣的事" scheme="https://jiangliang-7.github.io/tags/%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B/"/>
+    
+    <category term="111" scheme="https://jiangliang-7.github.io/tags/111/"/>
     
   </entry>
   
@@ -101,7 +115,7 @@
     <link href="https://jiangliang-7.github.io/2023/02/20/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
     <id>https://jiangliang-7.github.io/2023/02/20/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</id>
     <published>2023-02-20T15:18:55.426Z</published>
-    <updated>2023-02-21T05:38:36.733Z</updated>
+    <updated>2023-02-22T09:10:36.274Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
     
@@ -113,6 +127,10 @@
     
     
     
+    <category term="java笔记" scheme="https://jiangliang-7.github.io/categories/java%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="java" scheme="https://jiangliang-7.github.io/tags/java/"/>
     
   </entry>
   
