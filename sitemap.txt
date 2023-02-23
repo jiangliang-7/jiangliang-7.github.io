@@ -1,3 +1,5 @@
+https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%BA%8C/
+https://jiangliang-7.github.io/2023/02/20/hello-world/
 https://jiangliang-7.github.io/2023/02/20/a/
 https://jiangliang-7.github.io/2023/02/22/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/
 https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/
@@ -6,11 +8,9 @@ https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/
 https://jiangliang-7.github.io/categories/index.html
 https://jiangliang-7.github.io/tags/index.html
 https://jiangliang-7.github.io/link/index.html
-https://jiangliang-7.github.io/2023/02/21/%E6%96%87%E7%AB%A0%E4%BA%8C/
 https://jiangliang-7.github.io/Gallery/index.html
 https://jiangliang-7.github.io/movies/index.html
 https://jiangliang-7.github.io/music/index.html
-https://jiangliang-7.github.io/2023/02/20/hello-world/
 https://jiangliang-7.github.io/about/index.html
 https://jiangliang-7.github.io/
 https://jiangliang-7.github.io/tags/java/

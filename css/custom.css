@@ -1,31 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* @font-face {
-  font-family: Candyhome;
-  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);
-  font-display: swap;
-  font-weight: lighter;
-} */
-@font-face {
-    font-family: ZhuZiAYuanJWD;
-    src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);
-    font-display: swap;
-    font-weight: lighter;
-  }
-  
-  div#menus {
-    font-family: "ZhuZiAYuanJWD";
-  }
-  h1#site-title {
-    font-family: ZhuZiAYuanJWD;
-    font-size: 3em !important;
-  }
-  a.article-title,
-  a.blog-slider__title,
-  a.categoryBar-list-link,
-  h1.post-title {
-    font-family: ZhuZiAYuanJWD;
-  }
-  
-  .iconfont {
+    .iconfont {
     font-family: "iconfont" !important;
     font-size: 3em;
     /* 可以定义图标大小 */
@@ -319,20 +292,24 @@
   left: -125px;
 }
 
-/* 夜间模式菜单栏发光字 */
-[data-theme="dark"] #nav .site-page,
-[data-theme="dark"] #nav .menus_items .menus_item .menus_item_child li a {
-  text-shadow: 0 0 2px rgb(179, 71, 241) !important;
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3ecdf1;
+  color: #f2f2f2;
 }
 
-/* 手机端适配 */
-[data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
-  text-shadow: 0 0 2px rgb(179, 71, 241) !important;
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
 }
 
-
-
-  
   
   
   
