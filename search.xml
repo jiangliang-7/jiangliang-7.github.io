@@ -4,110 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/02/22/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
-      <url>/2023/02/22/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</url>
+      <title>文章测试一</title>
+      <link href="/2023/02/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%80/"/>
+      <url>/2023/02/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<p>![image-20230222202332610](D:\FileDownload\Blog\Blog\source_posts\新建 文本文档.assets\image-20230222202332610.png)</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文章四</title>
-      <link href="/2023/02/21/%E6%96%87%E7%AB%A0%E5%9B%9B/"/>
-      <url>/2023/02/21/%E6%96%87%E7%AB%A0%E5%9B%9B/</url>
-      
-        <content type="html"><![CDATA[<h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> c语言笔记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c语言 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文章三</title>
-      <link href="/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/"/>
-      <url>/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%89/</url>
-      
-        <content type="html"><![CDATA[<h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习思考 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文章二</title>
-      <link href="/2023/02/21/%E6%96%87%E7%AB%A0%E4%BA%8C/"/>
-      <url>/2023/02/21/%E6%96%87%E7%AB%A0%E4%BA%8C/</url>
-      
-        <content type="html"><![CDATA[<h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文章一</title>
-      <link href="/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/"/>
-      <url>/2023/02/21/%E6%96%87%E7%AB%A0%E4%B8%80/</url>
-      
-        <content type="html"><![CDATA[<h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><p>![本地图片](C:\Users\L\Pictures\Saved Pictures\单周.png)</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日常生活记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 日常生活 </tag>
-            
-            <tag> 有趣的事 </tag>
-            
-            <tag> 111 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>冒泡排序</title>
-      <link href="/2023/02/20/a/"/>
-      <url>/2023/02/20/a/</url>
-      
-        <content type="html"><![CDATA[<h1 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src="/images/a/image-20230222230038925.png" alt="image-20230222230038925"></p><h2 id="课表"><a href="#课表" class="headerlink" title="课表"></a>课表</h2><h3 id="表"><a href="#表" class="headerlink" title="表"></a>表</h3><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="center">编号</th><th align="center">姓名</th><th align="center">年龄</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">小明</td><td align="center">20</td></tr><tr><td align="center">2</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr>]]></content>
+        <content type="html"><![CDATA[<h1 id="冒泡排序-代码"><a href="#冒泡排序-代码" class="headerlink" title="冒泡排序==代码=="></a>冒泡排序==代码==</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//对数组进行冒泡排序</span></span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; len-<span class="number">1</span>;i++)<span class="comment">//len-1次循环，将最大数到第len-1大的数往后排</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> <span class="number">0</span>;j &lt; len-<span class="number">1</span>-i;j++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="type">int</span> <span class="variable">temp</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line"><span class="keyword">if</span>(str[j]&gt;str[j+<span class="number">1</span>])</span><br><span class="line">&#123;</span><br><span class="line">temp = str[j+<span class="number">1</span>];</span><br><span class="line">str[j+<span class="number">1</span>] = str[j];</span><br><span class="line">str[j] = temp;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -128,13 +29,25 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/02/20/hello-world/"/>
-      <url>/2023/02/20/hello-world/</url>
+      <title>文章测试二</title>
+      <link href="/2023/02/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%BA%8C/"/>
+      <url>/2023/02/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%BA%8C/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="这里放了一张markdown图片"><a href="#这里放了一张markdown图片" class="headerlink" title="这里放了一张markdown图片"></a>这里放了一张markdown图片</h1><p><img src="https://cdn.staticaly.com/gh/jiangliang-7/markdown_pic@main/2023/2/image-20230224141333079.png" alt="image-20230224141333079"></p><h1 id="这里放了图床里的图片"><a href="#这里放了图床里的图片" class="headerlink" title="这里放了图床里的图片"></a>这里放了图床里的图片</h1><p><img src="https://cdn.staticaly.com/gh/jiangliang-7/pic_bed@main/img/p8.webp"></p><h1 id="这里放了博客头像"><a href="#这里放了博客头像" class="headerlink" title="这里放了博客头像"></a>这里放了博客头像</h1><p><img src="https://cdn.staticaly.com/gh/jiangliang-7/pic_bed@main/img/touxiang.jpg"></p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6>]]></content>
       
       
+      <categories>
+          
+          <category> c语言笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c语言 </tag>
+            
+        </tags>
       
     </entry>
     
