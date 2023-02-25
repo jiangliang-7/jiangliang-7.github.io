@@ -1,4 +1,4 @@
-setInterval(() => {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>setInterval(() => {
   // let create_time = Math.round(new Date('2021-10-15 00:00:00').getTime() / 1000); //在此行修改建站时间
   // 有苹果用户发现safari浏览器不能正常运行，百度了一下发现是格式化的问题，改成下面这种应该就可以了。感谢反馈。
   let create_time = Math.round(new Date('2023/2/20 00:00:00').getTime() / 1000); //在此行修改建站时间
